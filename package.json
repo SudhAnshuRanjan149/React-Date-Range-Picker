@@ -1,0 +1,33 @@
+{
+  "name": "react-date-range-picker",
+  "version": "1.0.0",
+  "description": "A beautiful UI package for date range selection in react ui . This package has no dependencies on babel or any other package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SudhAnshuRanjan149/React-Date-Range-Picker.git"
+  },
+  "keywords": [
+    "React-date-range-picker",
+    "date-range-picker",
+    "date-range-selector",
+    "date-range-selector-for-react",
+    "react",
+    "picker",
+    "date-range-selector",
+    "date-range",
+    "date",
+    "calender",
+    "calender-picker",
+    "date-selector"
+  ],
+  "author": "Sudhanshu Ranjan <sudhanshuranjan149@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SudhAnshuRanjan149/React-Date-Range-Picker/issues"
+  },
+  "homepage": "https://github.com/SudhAnshuRanjan149/React-Date-Range-Picker#readme"
+}

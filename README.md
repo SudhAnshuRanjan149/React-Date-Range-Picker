@@ -1,11 +1,11 @@
-# React-Date-Range-selector
+# Date-range-picker-for-react
 
 
 install using 
 npm i date-range-picker-for-react
 
 
-import DateRangeSelector from 'date-range-selector-for-react'
+import DateRangeSelector from 'date-range-picker-for-react'
 
 #CODE
 <DateRangeSelector sd={setStartdate} ed={setEnddate}/>
