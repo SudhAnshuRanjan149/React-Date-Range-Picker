@@ -13,7 +13,7 @@ var _removeClassFromMultipleDiv = require("../Logic/removeClassFromMultipleDiv")
 
 var _addClassToMultipleDivs = require("../Logic/addClassToMultipleDivs");
 
-var _addClassFromStartToEnd = require("../Logic/addClassFromStartToEnd");
+
 
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function (nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
 

@@ -1,7 +1,7 @@
 {
-  "name": "react-date-range-picker",
-  "version": "1.0.0",
-  "description": "A beautiful UI package for date range selection in react ui . This package has no dependencies on babel or any other package.",
+  "name": "date-range-picker-for-react",
+  "version": "1.0.1",
+  "description": "A beautiful UI package for date range selection in react ui . This package has no dependencies on any package.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

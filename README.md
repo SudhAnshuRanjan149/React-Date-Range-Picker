@@ -1,19 +1,5 @@
-# Date-range-picker-for-react
+# Please use the (npm i date-range-selector-for-react) instead of this
 
 
-install using 
-npm i date-range-picker-for-react
-
-
-import DateRangeSelector from 'date-range-picker-for-react'
-
-#CODE
-<DateRangeSelector sd={setStartdate} ed={setEnddate}/>
-
-
-# PROPS-LIST
-sd ==> setStateDate useState ,
-ed ==> setEndDate useState ,
-startYear ==> your required any year,
-endYear  ==> your required end year,
-styleBigContainer ==> to style calender outer div
+This package is Deprecated. Rason is this package has babel dependencies and it is removed from  the 
+(date-range-selector-for-react).So, You can use (date-range-selector-for-react) in your project which has no dependencies.
